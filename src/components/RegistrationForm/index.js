@@ -73,7 +73,7 @@ function RegistrationForm() {
                 {
                     filled ? (<>
                         <img
-                            src="http://localhost:3000/images/success-icon-img.png"
+                            src="https://registeration-form.onrender.com/images/success-icon-img.png"
                             alt="success"
                             className="success-image"
                         />
